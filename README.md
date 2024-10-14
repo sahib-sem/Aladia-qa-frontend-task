@@ -1,1 +1,1 @@
-# Aladia-qa-frontend-task
+# Aladia QA Frontend Task
