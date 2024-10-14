@@ -1,0 +1,1 @@
+{"title":"signUpLogin/template spec/user should be able to sign up using new account and then login with the new account","stories":[{"name":"Snapshot #1","parameters":{"server":{"id":"signuplogin-template-spec-user-should-be-able-to-sign-up-using-new-account-and-then-login-with-the-new-account-snapshot-1"},"chromatic":{}}}]}
