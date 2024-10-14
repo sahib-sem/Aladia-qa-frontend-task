@@ -254,13 +254,13 @@
 ({
       browserFamily: 'chromium',
       isSpecBridge: false,
-      key: 'ad694ebb-df1c-4c7d-a2ba-a2b41cb486d3',
+      key: 'ce0485b7-9d43-4051-b7e4-adad9be3b20d',
       namespace: '__cypress',
       scripts: '["/__cypress/tests?p=cypress/support/e2e.js","/__cypress/tests?p=cypress/e2e/signUpLogin.cy.js"]',
       url: 'http://localhost:3000/__cypress/iframes/cypress%2Fe2e%2FsignUpLogin.cy.js?browserFamily=chromium'
     })</script>
     <script>
-      window.Cypress.onSpecWindow(window, [{"absolute":"/home/sahib/aladia/frontend-qa-selection/login_page/cypress/support/e2e.js","relative":"cypress/support/e2e.js","relativeUrl":"/__cypress/tests?p=cypress/support/e2e.js"},{"absolute":"/home/sahib/aladia/frontend-qa-selection/login_page/cypress/e2e/signUpLogin.cy.js","relative":"cypress/e2e/signUpLogin.cy.js","relativeUrl":"/__cypress/tests?p=cypress/e2e/signUpLogin.cy.js"}]);
+      window.Cypress.onSpecWindow(window, [{"absolute":"/home/sahib/aladia3/Aladia-qa-frontend-task/login_page/cypress/support/e2e.js","relative":"cypress/support/e2e.js","relativeUrl":"/__cypress/tests?p=cypress/support/e2e.js"},{"absolute":"/home/sahib/aladia3/Aladia-qa-frontend-task/login_page/cypress/e2e/signUpLogin.cy.js","relative":"cypress/e2e/signUpLogin.cy.js","relativeUrl":"/__cypress/tests?p=cypress/e2e/signUpLogin.cy.js"}]);
     </script>
   </body>
 </html>
